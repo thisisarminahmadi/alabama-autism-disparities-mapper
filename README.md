@@ -28,7 +28,7 @@ This analysis was conducted as part of a study examining disparities in autism s
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[your-username]/alabama-autism-disparities-mapper.git
+git clone https://github.com/thisisarminahmadi/alabama-autism-disparities-mapper.git
 cd alabama-autism-disparities-mapper
 ```
 
@@ -69,9 +69,10 @@ print(analysis_df.head())
 ## Data Sources
 
 ### Autism Service Provider Data
-- Source: Scraped from various autism service directories
+- Source: Alabama Department of Mental Health Autism Department and web scraping from various autism service directories
 - Format: Excel file with provider information including names, addresses, counties, and services
 - Date: February 18, 2024
+- Note: Data was compiled from official state resources and verified through web scraping
 
 ### Demographic Data
 - Source: US Census Bureau API
@@ -146,8 +147,8 @@ The analysis reveals several important patterns in autism service distribution a
 If you use this code in your research, please cite:
 
 ```
-[Your Name]. (2024). Alabama Autism Service Disparities Mapper. 
-PLOS ONE. https://github.com/[your-username]/alabama-autism-disparities-mapper
+Ahmadi, A. (2024). Alabama Autism Service Disparities Mapper. 
+PLOS ONE. https://github.com/thisisarminahmadi/alabama-autism-disparities-mapper
 ```
 
 ## License
@@ -160,6 +161,7 @@ This repository is associated with a PLOS ONE publication. For questions or issu
 
 ## Acknowledgments
 
+- Alabama Department of Mental Health Autism Department for providing official service provider data
 - US Census Bureau for demographic data
 - Autism service providers and directories for service information
 - OpenStreetMap for geographic data
@@ -168,8 +170,8 @@ This repository is associated with a PLOS ONE publication. For questions or issu
 ## Contact
 
 For questions about this analysis or the associated research, please contact:
-- Email: [your-email]
-- Institution: [your-institution]
+- Email: [Please add your email address]
+- Institution: [Please add your institution]
 
 ## Version History
 
